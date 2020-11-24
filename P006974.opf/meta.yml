@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W21896
   title: བདུད་གླིང་གཡུལ་འགྱེད
-  volume: ''
+  volume:
+    89f11e2b3489490c98a536d7a43eb73b:
+      image_group_id: I4763
+      title: ''
+      volume_number: 1
+      total_pages: 776
   author: ''
+ebook_metadata:
+  title: བདུད་གླིང་གཡུལ་འགྱེད
+  author: ''
+  sku: P006974
+  cover: cover.jpg
+  layers:
+  - pagination
